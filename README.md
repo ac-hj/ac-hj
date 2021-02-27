@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Acelyn, a sophomore at Penn majoring in CS 👩🏻‍💻
-### In my free time, I love learning new things and going on foodventures ~ 🍃
+My name is Acelyn, a sophomore at Penn majoring in CS 👩🏻‍💻
+In my free time, I love learning new things and going on foodventures ~ 🍃
