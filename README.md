@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p> My name is Acelyn, a sophomore at Penn majoring in CS 👩🏻‍💻 </p>
-<p>n my free time, I love learning new things ⭐️ and going on foodventures ~ 🍃 </p>
+<p>In my free time, I love learning new things ⭐️ and going on foodventures ~ 🍃 </p>
