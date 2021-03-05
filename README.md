@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hai! I'm Acelyn 👋
 
 <!--
 **ac-hj/ac-hj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p> My name is Acelyn, a sophomore at Penn majoring in CS 👩🏻‍💻 </p>
-<p>In my free time, I love learning new things ⭐️ and going on foodventures ~ 🍃 </p>
+<p>In my free time, I love learning new things ⭐️ and going on foodventures 🍃 </p>
