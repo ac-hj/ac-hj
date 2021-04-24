@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> My name is Acelyn, a sophomore at Penn majoring in CS 💻 </p>
