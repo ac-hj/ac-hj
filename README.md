@@ -1,4 +1,4 @@
-### Hai there! 😄
+### Hai there ! 🦦
 
 <!--
 **ac-hj/ac-hj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a CS student at UPenn ! 
+
+- 🏫&nbsp;&nbsp; i'm a sophomore studying computer science at the university of pennsylvania
+- 💻&nbsp;&nbsp; i'm interested in web dev, design and machine learning 
+- 💌&nbsp;&nbsp; reach out choihye [at] seas.upenn.edu 
