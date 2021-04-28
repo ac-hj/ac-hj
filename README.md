@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🏫&nbsp;&nbsp; i'm a sophomore studying computer science at the university of pennsylvania
 - 💻&nbsp;&nbsp; i'm interested in web dev, design and machine learning 
-- 💌&nbsp;&nbsp; reach out choihye [at] seas.upenn.edu 
+- 💌&nbsp;&nbsp; reach out choihye @ seas.upenn.edu 
