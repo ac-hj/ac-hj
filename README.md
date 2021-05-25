@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏫&nbsp;&nbsp; i'm a sophomore studying computer science at the university of pennsylvania
+- 🏫&nbsp;&nbsp; i'm a junior studying computer science at the university of pennsylvania
 - 💌&nbsp;&nbsp; reach out choihye@seas.upenn.edu 
