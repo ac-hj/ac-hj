@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🏫&nbsp;&nbsp; i'm a junior studying computer science at the university of pennsylvania
-- 💌&nbsp;&nbsp; visit my personal website [here](https://ac-hj.github.io/) !
+- 💌&nbsp;&nbsp; check out my hand-coded personal website [here](https://ac-hj.github.io/) !
