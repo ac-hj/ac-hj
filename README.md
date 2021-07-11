@@ -1,4 +1,4 @@
-### 🌻 Hi
+### 🌻 Hello !
 
 <!--
 **ac-hj/ac-hj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🏫&nbsp;&nbsp; i'm a junior studying computer science at the university of pennsylvania
-- 💌&nbsp;&nbsp; check out my hand-coded personal website [here](https://ac-hj.github.io/) !
+- 💌&nbsp;&nbsp; check out my hand-coded personal website [here](https://ac-hj.github.io/) :)
